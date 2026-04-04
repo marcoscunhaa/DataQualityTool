@@ -1,0 +1,4 @@
+# Ignore example folder
+example/
+result/
+.ipynb_checkpoints/
