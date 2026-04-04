@@ -179,6 +179,4 @@ This tool can be applied to:
 
 * Excel reporting for business-friendly output
 
-* Modular and reusable design
-
-*  
+* Modular and reusable design  
