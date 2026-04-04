@@ -40,7 +40,7 @@ This step helps to:
 
 * Guide the audit and cleaning strategy
   
-  ## 📉 2.  Data Quality Audit
+## 📉 2.  Data Quality Audit
 
 The script `audit.py` performs a **comprehensive data quality scan** and generates a structured Excel report.
 
